@@ -1,6 +1,5 @@
-import abstractFactory.Elf
-import abstractFactory.FantasyLevelFactory
-import abstractFactory.Orc
+package abstractFactory
+
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test
 
